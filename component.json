@@ -1,0 +1,14 @@
+{
+  "name": "object-url",
+  "repo": "component/object-url",
+  "description": "X-Browser object url support",
+  "version": "0.0.1",
+  "keywords": ["url", "utility"],
+  "dependencies": {},
+  "development": {},
+  "license": "MIT",
+  "main": "index.js",
+  "scripts": [
+    "index.js"
+  ]
+}
