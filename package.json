@@ -2,7 +2,7 @@
   "name": "object-url",
   "repo": "component/object-url",
   "description": "X-Browser object url support",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "keywords": ["url", "utility"],
   "dependencies": {},
   "development": {},
